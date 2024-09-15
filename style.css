@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'titillium web', sans-serif;
+    font-family: 'Titillium web', sans-serif;
 }
 
 :root {
@@ -148,7 +148,7 @@ main {
 
     main {
         margin-inline: 7rem;
-        max-height: 24rem;
+        max-width: 24rem;
         padding: 0;
     }
 
